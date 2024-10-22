@@ -25,6 +25,7 @@
           - [AEGIS-128L](secret-key_cryptography/aegis/aegis-128l.md)
           - [AES256-GCM](secret-key_cryptography/aes-256-gcm.md)
               - [AES256-GCM with precomputation](secret-key_cryptography/aes-gcm_with_precomputation.md)
+          - [ROCCA-S](secret-key_cryptography/rocca-s.md)        
   - [Public-key cryptography](public-key_cryptography/README.md)
       - [Authenticated encryption](public-key_cryptography/authenticated_encryption.md)
       - [Public-key signatures](public-key_cryptography/public-key_signatures.md)
